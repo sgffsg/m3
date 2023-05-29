@@ -1,0 +1,2445 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ac5a5404e2cd4b468d59fe059f9b4d3, type: 3}
+  m_Name: LevelsDataBase
+  m_EditorClassIdentifier: 
+  levels:
+  - LevelName: Level 1
+    LevelNumber: 1
+    Width: 7
+    Height: 8
+    field:
+      cells:
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      chips:
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 15
+  - LevelName: Level 2
+    LevelNumber: 2
+    Width: 8
+    Height: 9
+    field:
+      cells:
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      chips:
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 25
+  - LevelName: Level 3
+    LevelNumber: 3
+    Width: 9
+    Height: 9
+    field:
+      cells:
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      chips:
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 20
+  - LevelName: Level 4
+    LevelNumber: 4
+    Width: 9
+    Height: 9
+    field:
+      cells:
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      chips:
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+      - chipType: 2
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 30
+  - LevelName: Level 5
+    LevelNumber: 5
+    Width: 9
+    Height: 9
+    field:
+      cells:
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 0
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      chips:
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 5
+        chipBonusType: 0
+      - chipType: 1
+        chipBonusType: 0
+      - chipType: 3
+        chipBonusType: 0
+      - chipType: 4
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 30
+  - LevelName: Level 6
+    LevelNumber: 6
+    Width: 5
+    Height: 5
+    field:
+      cells:
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 1
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      - cellType: 1
+        blockerType: 0
+        direction: {x: 0, y: -1}
+        IsEnterPoint: 0
+      chips:
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 1
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 3
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+      - chipType: 0
+        chipBonusType: 0
+    LimitType: 0
+    LimitCount: 30

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59471d0c07846cb4a9c86796eb97e8dd, type: 3}
+  m_Name: ChipGraphics
+  m_EditorClassIdentifier: 
+  elements:
+  - Name: Null
+    Sprite: {fileID: 21300000, guid: 20e74374dc5dae54a95fc7053b4089ff, type: 3}
+    ChipType: 0
+    ChipBonusType: 0
+  - Name: Chip1
+    Sprite: {fileID: 21300000, guid: e013dfc8162ddac4ea44f2a5fd505a1d, type: 3}
+    ChipType: 1
+    ChipBonusType: 0
+  - Name: Chip2
+    Sprite: {fileID: 21300000, guid: ec9a6c260ea61c84bb13a01c77ed07a6, type: 3}
+    ChipType: 2
+    ChipBonusType: 0
+  - Name: Chip3
+    Sprite: {fileID: 21300000, guid: 383ff38c6f2cd1b4c9dcf0fb33dbcb5d, type: 3}
+    ChipType: 3
+    ChipBonusType: 0
+  - Name: Chip4
+    Sprite: {fileID: 21300000, guid: fb7fe5d91b3112844ae560cc74ed4c8c, type: 3}
+    ChipType: 4
+    ChipBonusType: 0
+  - Name: Chip5
+    Sprite: {fileID: 21300000, guid: 6cf350a71d2cf634d9db8d73d0170dc4, type: 3}
+    ChipType: 5
+    ChipBonusType: 0
+  - Name: Vertical
+    Sprite: {fileID: 21300000, guid: 33400626df068a744850c39df349516e, type: 3}
+    ChipType: 0
+    ChipBonusType: 1
+  - Name: Horizontal
+    Sprite: {fileID: 21300000, guid: 51cf6bcd6a1003645bd440931fe95c66, type: 3}
+    ChipType: 0
+    ChipBonusType: 2
+  - Name: Bomb
+    Sprite: {fileID: 21300000, guid: 0df6b4449ec641447848c63fce2490e0, type: 3}
+    ChipType: 0
+    ChipBonusType: 3
+  - Name: MultiColor
+    Sprite: {fileID: 21300000, guid: fd143ed6d3d6e9649955169a72a9f514, type: 3}
+    ChipType: 0
+    ChipBonusType: 4
+  - Name: Plane
+    Sprite: {fileID: 21300000, guid: 0e87b2a2a2e34d24c88c24f3c5fd9696, type: 3}
+    ChipType: 0
+    ChipBonusType: 5
